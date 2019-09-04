@@ -1,0 +1,56 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: Castellar, serif;
+}
+header,footer {
+	background: #333333;
+	padding: 25px 0;
+}
+
+h1 {
+	text-align: center;
+	color: #fff;
+	font-size: 100px;
+
+}
+
+h2 {
+	text-align: center;
+	color: #000;
+	font-size: 50px;
+}
+
+p { 
+	text-align: center;
+	color: #000;
+	font-size: 15px;
+}
+
+ul {
+	color: #000;
+	font-size: 23px;
+
+}
+
+div{
+	width: 2300px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+aside,main {
+	width: 45%;
+	float: left;
+}
+
+aside img {
+	display: block;
+	width: 110%;
+	margin: 1 auto;
+}
+
+footer p {
+	color: #fff;
+	text-align: center;
+}
